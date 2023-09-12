@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   Page Existant 
 </h3>
 
-<p>une seul page avec 3 coponents une pour l'ajout ,une pour la consultation et une pour les detaills </p>
+<p>une seul page avec 3 coponents un pour l'ajout ,un pour la consultation et un pour les detaills </p>
